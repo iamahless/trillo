@@ -1,4 +1,4 @@
-# Trillo | Your all-in-one booking app<
+# Trillo | Your all-in-one booking app
 
 Trying out SCSS for the second time
 
